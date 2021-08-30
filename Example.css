@@ -9,7 +9,10 @@ p {
 }
 #basic-info-text {
 	color: rgb(0, 0, 255);
-	}
+}
 #more-info-text {
 	color: rgb(50, 80, 255);
-	}
+}
+.more-info-details {
+	background-color: rgb(238, 153, 255);
+}
